@@ -106,7 +106,7 @@ int main() {
 
     cout<<" \n9) ¿Qué hace continue en un for? "<<endl;
     cout<<"•  ( ) A) Termina por completo el bucle. "<<endl;
-    cout<<"•  ( ) B) Salta a la siguiente iteración. "<<endl;
+    cout<<"•  (x) B) Salta a la siguiente iteración. "<<endl;
     cout<<"•  ( ) C) Reinicia el contador a 0. "<<endl;
     cout<<"•  ( ) D) Salta dos iteraciones. "<<endl;
     //Respuesta correcta B
@@ -116,7 +116,7 @@ int main() {
     }
 
     cout<<" \n10) ¿Cuál condición es verdadera? "<<endl;
-    cout<<"•  ( ) A) (3 == 3) && !(2 > 5) "<<endl;
+    cout<<"•  (x) A) (3 == 3) && !(2 > 5) "<<endl;
     cout<<"•  ( ) B) (3 = 3) || (2 < 1) "<<endl;
     cout<<"•  ( ) C) !(3 == 3) || (2 > 5) "<<endl;
     cout<<"•  ( ) D) (3 != 3) && (2 <= 5) "<<endl;
@@ -253,4 +253,5 @@ int main() {
 
     return 0;
 }
+
 
