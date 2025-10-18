@@ -27,8 +27,8 @@ int main() {
 
     cout<<" \n2) ¿Qué imprime?   std::cout << 7/2 << " " << 7/2.0; "<<endl;
     cout<<"•  ( ) A) 3 3 "<<endl;
-    cout<<"•  ( ) B) 3 3.5 "<<endl;
-    cout<<"•  (x) C) 3.5 3.5 "<<endl;
+    cout<<"•  (x) B) 3 3.5 "<<endl;
+    cout<<"•  ( ) C) 3.5 3.5 "<<endl;
     cout<<"•  ( ) D) 3 3.0 "<<endl;
     //Respuesta correcta C
     cout << 7/2 << " " << 7/2.0 << endl;
@@ -253,3 +253,4 @@ int main() {
 
     return 0;
 }
+
