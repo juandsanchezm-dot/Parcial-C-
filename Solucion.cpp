@@ -47,7 +47,7 @@ int main() {
     cout<<"•  ( ) B) Entra al if siempre. "<<endl;
     cout<<"•  (x) C) Entra al else porque el valor es 0 tras la asignación. "<<endl;
     cout<<"•  ( ) D) Comportamiento indefinido. "<<endl;
-    //Respuesta correcta A
+    //Respuesta correcta C
     int r=3;
     if (r=0) // Asignación, no comparación; genera 0 (falso)
     {
@@ -253,5 +253,6 @@ int main() {
 
     return 0;
 }
+
 
 
